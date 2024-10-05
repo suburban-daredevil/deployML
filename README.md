@@ -6,3 +6,5 @@ Goal: The goal of this project is create a website to gather inputs from the use
 * ML model - pandas, scikit-learn, numpy
 * joblib - to serialize, save and reload the trained ML model
 
+I followed [this](https://365datascience.com/tutorials/machine-learning-tutorials/how-to-deploy-machine-learning-models-with-python-and-streamlit/)
+blog to create my web-page
